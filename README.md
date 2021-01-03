@@ -1,2 +1,3 @@
 # machine_learning_in_python
-this repo contains machine learning notebooks
+This repo contains machine learning notebooks
+1. Heart disease prediction using extratreeclassifier, logistic regression
