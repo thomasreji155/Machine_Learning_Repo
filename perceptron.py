@@ -41,13 +41,16 @@ class Perceptron:
 
     def _unit_step_func(self, x):
         return np.where(x>=0, 1, 0)
+    
+    def accuracy (y_true, y_pred):
+        accuracy = np.sum(y_train == y+predicted) / len(y_train)
+        return accuracy
 
 
 
 
 # credit = python engineer 
-
-
+# link : https://www.youtube.com/watch?v=t2ym2a3pb_Y
 
 
 
