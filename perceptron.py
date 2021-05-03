@@ -52,10 +52,3 @@ class Perceptron:
 # credit = python engineer 
 # link : https://www.youtube.com/watch?v=t2ym2a3pb_Y
 
-
-
-
-
-
-
-
